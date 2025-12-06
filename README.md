@@ -1,4 +1,6 @@
-## Hi there 👋
+
+<h1 align="center">Hi there 👋 I'm Shani Prajapati</h1>
+<h3 align="center">Building on my MERN Stack expertise and ongoing exploration of AI applications, I am honing essential skills such as Git workflow management, object-oriented programming, and collaborative software practices to shape myself into a dynamic, future-ready Software Engineer | Turning ideas into powerful digital experiences</h3>
 
 <!--
 **shaniprajapatiii/shaniprajapatiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
