@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋 I'm Shani Prajapati</h1>
-<h4 align="center">Building on my MERN Stack expertise and ongoing exploration of AI applications, I am honing essential skills such as Git workflow management, object-oriented programming, and collaborative software practices to shape myself into a dynamic, future-ready Software Engineer | Turning ideas into powerful digital experiences</h4>
+<h4 align="center">Building on my Full Stack expertise and ongoing exploration of AI applications, I am honing essential skills such as Git workflow management, object-oriented programming, and collaborative software practices to shape myself into a dynamic, future-ready Software Engineer | Turning ideas into powerful digital experiences</h4>
 <h1 align="center"></h1>
 
 <!--
