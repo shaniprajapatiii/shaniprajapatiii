@@ -13,16 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋 I'm Shani Prajapati:
-Building on my Full Stack expertise and ongoing exploration of AI applications, I am honing essential skills such as Git workflow management, object-oriented programming, and collaborative software practices to shape myself into a dynamic, future-ready Software Engineer | Turning ideas into powerful digital experiences
+# Hi there 👋 I'm Shani Prajapati
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaniprajapatiii) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaniprajapatiii) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?logo=globe&logoColor=white&style=flat)](https://shaniprajapati.vercel.app)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaniprajapati630@gmail.com) 
+Building on my **Full Stack expertise** and ongoing exploration of **AI applications**,  
+I am honing essential skills such as **Git workflow management**, **Object-Oriented Programming**,  
+and **collaborative software practices** to shape myself into a **dynamic, future-ready Software Engineer**  
+— *Turning ideas into powerful digital experiences* 🚀
 
-# 💻 Tech Stack:
+---
+
+## 💻 Tech Stack:
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -48,11 +51,26 @@ Building on my Full Stack expertise and ongoing exploration of AI applications, 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)ö
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shaniprajapatiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shaniprajapatiii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaniprajapatiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaniprajapatiii) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaniprajapatiii) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?logo=globe&logoColor=white&style=flat)](https://shaniprajapati.vercel.app)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaniprajapati630@gmail.com) 
+
+---
+
+## 📊 GitHub Stats:
+<div>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shaniprajapatiii&theme=dark&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaniprajapatiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shaniprajapatiii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
