@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=25&fontColor=000000"/>
 
 <!--
 **shaniprajapatiii/shaniprajapatiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +25,7 @@ and **collaborative software practices** to shape myself into a **dynamic, futur
 
 ## 💻 Tech Stack:
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -56,11 +57,19 @@ and **collaborative software practices** to shape myself into a **dynamic, futur
 ---
 
 ## 🌐 Socials:
+<h3 align="center">
+    🎉 You are my &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/shaniprajapatiii">
+        <img src="https://count.getloli.com/@:shaniprajapatiii?theme=" alt=":shaniprajapatiii visits"  />
+    </a>
+    &nbsp;&nbsp;&nbsp;guest. 
+  Thank You 😍 
+</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaniprajapatiii) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaniprajapatiii) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?logo=globe&logoColor=white&style=flat)](https://shaniprajapati.vercel.app)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaniprajapati630@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaniprajapatiii) 
 
 ---
 
@@ -76,8 +85,18 @@ and **collaborative software practices** to shape myself into a **dynamic, futur
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shaniprajapatiii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=shaniprajapatiii&icon=0&color=2)](https://visitcount.itsvg.in)
+<p align="center">
+ <i>Take a look at my repositories and let's get in touch!</i>
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=shaniprajapatiii"/>       
+</p>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=gradient&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Thank+You+For+Visiting+My+Profile!" alt="Thankyou Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&section=footer" />
+</p>
