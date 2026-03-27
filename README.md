@@ -68,6 +68,7 @@ and **collaborative software practices** to shape myself into a **dynamic, futur
 <div>
   <img src="https://nirzak-streak-stats.vercel.app/?user=shaniprajapatiii&theme=dark&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaniprajapatiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaniprajapatiii&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ---
