@@ -88,9 +88,9 @@ and **collaborative software practices** to shape myself into a **dynamic, futur
 ---
 <p align="center">
  <i>Take a look at my repositories and let's get in touch!</i>
-<p  align="center">
+<!-- <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=shaniprajapatiii"/>       
-</p>
+</p> -->
 </p>
 
 <h1 align="center">
