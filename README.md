@@ -1,19 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=25&fontColor=000000"/>
 
-<!--
-**shaniprajapatiii/shaniprajapatiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there 👋 I'm Shani Prajapati
 
 Building on my **Full Stack expertise** and ongoing exploration of **AI applications**,  
@@ -32,9 +18,12 @@ and **collaborative software practices** to shape myself into a **dynamic, futur
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
@@ -49,8 +38,10 @@ and **collaborative software practices** to shape myself into a **dynamic, futur
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -66,37 +57,36 @@ and **collaborative software practices** to shape myself into a **dynamic, futur
   Thank You 😍 
 </h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaniprajapatiii) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?logo=globe&logoColor=white&style=flat)](https://shaniprajapati.vercel.app)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaniprajapati630@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaniprajapatiii) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaniprajapatiii)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?logo=globe)](https://shani-prajapati.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:shaniprajapati630@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)]([https://instagram.com](https://www.instagram.com/shaniprajapatiii))
 
 ---
 
 ## 📊 GitHub Stats:
 <div>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shaniprajapatiii&theme=dark&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaniprajapatiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaniprajapatiii&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shaniprajapatiii&show_icons=true&theme=dracula" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaniprajapatiii&layout=compact&theme=dracula" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shaniprajapatiii&theme=dracula"/>
+</p>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shaniprajapatiii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-<p align="center">
- <i>Take a look at my repositories and let's get in touch!</i>
-<!-- <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=shaniprajapatiii"/>       
-</p> -->
-</p>
+## 🚀 Closing Note
+
+> “Consistency beats talent when talent doesn’t stay consistent.”
+
+I am constantly learning, building, and improving myself as a developer.
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=gradient&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Thank+You+For+Visiting+My+Profile!" alt="Thankyou Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Thanks+For+Visiting+my+profile!;Let's+Connect+and+Build+Something+Great" />
 </h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&section=footer" />
-</p>
