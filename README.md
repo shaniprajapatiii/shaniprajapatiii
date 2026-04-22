@@ -1,6 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=25&fontColor=000000"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=25&fontColor=000000"/> -->
 
-# Hi there 👋 I'm Shani Prajapati
+<p align='center'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=shaniprajapatiii&data=followers,repositories,stars,commits'>
+</p>
 
 Building on my **Full Stack expertise** and ongoing exploration of **AI applications**,  
 I am honing essential skills such as **Git workflow management**, **Object-Oriented Programming**,  
@@ -78,7 +80,20 @@ and **collaborative software practices** to shape myself into a **dynamic, futur
 
 ---
 
-![](https://github-profile-trophy.vercel.app/?username=shaniprajapatiii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaniprajapatiii&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+<!-- <div>
+    
+![trophy](https://github-profile-trophy-api.vercel.app/?username=shaniprajapatiii)
+
+![](https://github-trophies.vercel.app/?username=shaniprajapatiii)
+
+</div> -->
+
+<p align='center'>
+<!-- <img src='https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6'> -->
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=shaniprajapatiii&theme=dracula&column=11'>
+</p>
 
 ---
 ## 🚀 Closing Note
